@@ -5,5 +5,5 @@ This repository will contain some if not all fandmade missions for Shadows of Br
 
 The credits go for their different creators.
 
-Campaings:
+Campaigns:
 - One Way Ticket: [RPG Geek: Moavoamoatu](https://rpggeek.com/user/moavoamoatu) [Resource](https://rpggeek.com/filepage/113668/sob-campaign-one-way-ticket-7-missions-tiles-cards)
